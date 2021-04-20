@@ -6,6 +6,8 @@ It is a online electronic repairing shop.
 API For The Product
 ### [API](https://evening-woodland-61193.herokuapp.com/events)
 
+### Data loading in both Service and Review Section is Dynamic
+
 ##Functionality
 1. Home
 2. Dashboard

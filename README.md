@@ -1,4 +1,4 @@
-### Bengal IT Plus [Live](https://github.com/facebook/create-react-app)
+### Bengal IT Plus [Live](https://bengal-it-plus.web.app/)
 
 ## Electronic Gadgets Care Home
 It is a online electronic repairing shop.

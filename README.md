@@ -1,10 +1,10 @@
 ### Bengal IT Plus [Live](https://github.com/facebook/create-react-app)
 
-### Electronic Gadgets Care Home
+## Electronic Gadgets Care Home
 It is a online electronic repairing shop.
 
 API For The Product
-### [API](https://evening-woodland-61193.herokuapp.com/events)
+### [API](Find here)
 
 ##Functionality
 1. Home
@@ -12,6 +12,8 @@ API For The Product
 3. Service
 4. Contact Us
 5. Login
+
+### Service & Review (Dynamic)
 
 #Database - MongoDB #Login System #image upload with others info
 

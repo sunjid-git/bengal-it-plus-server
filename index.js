@@ -6,7 +6,7 @@ const cors = require('cors');
 const bodyParser = require('body-parser');
 require('dotenv').config()
 
-const port = process.env.PORT || 5055
+const port = 5055;
 
 app.use(cors());
 app.use(bodyParser.json());
@@ -45,6 +45,4 @@ client.connect(err => {
 });
 
 
-app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`)
-})
+app.listen( process.env.PORT || port)

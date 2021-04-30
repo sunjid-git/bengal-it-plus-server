@@ -1,10 +1,10 @@
-### Bengal IT Plus [Live](https://bengal-it-plus.web.app/)
+### Bengal IT Plus 
+### [Live](https://bengal-it-plus.web.app/)
+### [Server](https://github.com/sunjid-git/bengal-it-plus-server)
+### [API](https://evening-woodland-61193.herokuapp.com/events)
 
 ## Electronic Gadgets Care Home
 It is a online electronic repairing shop.
-
-API For The Product
-### [API](https://evening-woodland-61193.herokuapp.com/events)
 
 ### Data loading in both Service and Review Section is Dynamic
 
